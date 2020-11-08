@@ -12,7 +12,7 @@ We collected the news data using New York Times API[1] by retrieving the URL of 
 We put a sample of the dataset in this repository.
 
 # Interactions on news data
- The interactions on the news are too large files and can not be uploaded on Git repository due to size limit, so a sample of interaction files matching with the timeline of news data can be accessed via this link https://drive.google.com/drive/folders/1f9oy_VjX6gMP1eepQ3VHumkmwmPYBWZ1?usp=sharing
+ The interactions on the news are too large files and can not be uploaded on Git repository due to size limit, so a sample of interaction files matching with the timeline of news data can be accessed via this [link](https://drive.google.com/drive/folders/1f9oy_VjX6gMP1eepQ3VHumkmwmPYBWZ1?usp=sharing)
 
 # Acknowledgement
 The data was collected with the help of New York Times API to retrieve URL of the articles. The URL used to retrieve comments from a given article in the [code](https://github.com/AashitaK/nyt-comments) in the package.
